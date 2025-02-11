@@ -14,6 +14,6 @@
 
 ### Wellington Carlos
 
-### Linkedin: https://www.linkedin.com/school/wellingtonb3
+### Linkedin: https://www.linkedin.com/in/wellington-datascientist/
 
 ```
